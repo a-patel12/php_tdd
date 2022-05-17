@@ -1,0 +1,17 @@
+{
+    "name": "apatel/php_tdd",
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Apatel\\PhpTdd\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "a patel",
+            "email": "5598313+a-patel12@users.noreply.github.com"
+        }
+    ]
+}
