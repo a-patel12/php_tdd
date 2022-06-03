@@ -2,8 +2,6 @@
 
 namespace Apatel\PhpTdd;
 
-use http\Exception\InvalidArgumentException;
-
 class Calculation{
 
     public function add($a, $b)
